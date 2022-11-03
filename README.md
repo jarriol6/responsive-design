@@ -1,2 +1,2 @@
-# responsive-design
-Examples of responsive web design
+# Responsive Web Design
+Examples of responsive web design with CSS and Bootstrap
